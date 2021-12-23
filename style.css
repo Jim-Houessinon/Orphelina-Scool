@@ -1,0 +1,237 @@
+@media screen and (max-width:575px)
+{
+    .space-title
+    {
+      height: 20vh;
+    }
+}
+
+@media screen and (min-width:576px)
+{
+
+    .space-title
+    {
+        height: 35vh;
+    }
+}
+
+@media screen and (min-width:992px)
+{
+    .parallax
+    {
+        height: 30vh;
+        width: 70%;
+        margin-left: 10%;
+        background-position:left;
+        background-repeat: no-repeat;
+        background-size:35vw;
+        background-attachment:fixed;
+        background-image: url("13.jpg");
+    }
+.parallax1
+    {
+        height: 30vh;
+        width: 70%;
+        margin-left: 15%;
+        background-position:center;
+        background-repeat: no-repeat;
+        background-size:35vw;
+        background-attachment:fixed;
+        background-image: url("11.jpg");
+    }
+.parallax2
+    {
+        height: 30vh;
+        width: 70%;
+        margin-left: 10%;
+        background-position:right;
+        background-repeat: no-repeat;
+        background-size:40%;
+        background-attachment:fixed;
+        background-image: url("12.jpg");
+    }
+}
+
+@media screen and (max-width:991px)
+{
+    .parallax
+    {
+        height: 30vh;
+        width: 70%;
+        margin-left: 15%;
+        background-position:left;
+        background-repeat: no-repeat;
+        background-size:55vw;
+        background-attachment:fixed;
+        background-image: url("13.jpg");
+    }
+    .parallax1
+    {
+        height: 30vh;
+        width: 70%;
+        margin-left: 15%;
+        background-position:right;
+        background-repeat: no-repeat;
+        background-size:60vw;
+        background-attachment:fixed;
+        background-image: url("11.jpg");
+    }
+    .parallax2
+    {
+        height: 30vh;
+        width: 70%;
+        margin-top: 20%;
+        margin-left: 15%;
+        background-position:center;
+        background-repeat: no-repeat;
+        background-size:70vw;
+        background-attachment:fixed;
+        background-image: url("12.jpg");
+    }
+}
+
+@media screen and (max-width:767px)
+{
+    .parallax
+    {
+        height: 30vh;
+        width: 60%;
+        margin-left: 20%;
+        background-position:left;
+        background-repeat: no-repeat;
+        background-size:75vw;
+        background-attachment:fixed;
+        background-image: url("13.jpg");
+    }
+
+    .parallax1
+    {
+        height: 30vh;
+        width: 60%;
+        margin-left: 20%;
+        margin-top: 10%;
+        background-position:center;
+        background-repeat: no-repeat;
+        background-size:75vw;
+        background-attachment:fixed;
+        background-image: url("11.jpg");
+    }
+    
+    .parallax2
+    {
+        height: 30vh;
+        width: 60%;
+        margin-left: 20%;
+        margin-top: 10%;
+        background-position:center;
+        background-repeat: no-repeat;
+        background-size:75vw;
+        background-attachment:fixed;
+        background-image: url("12.jpg");
+    }
+}
+
+.space
+{
+    height: 20vh;
+}
+
+.space-formulaire
+{
+    height: 15vh;
+}
+
+.image-home
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url("home-page-slider.jpg");
+}
+
+.image-evenement
+{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    background-image: url("image-home-evenement.png");
+}
+
+.image-formulaire
+{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    background-image: url("formulaire-de-contact-picto.jpg");
+}
+
+.title
+{
+    font-style: italic;
+}
+
+.carousel-item
+{
+    text-align: center;
+    height: 50vh;
+}
+
+.list-inline-item a:hover, .breadcrumb a:hover, .navbar-toggler p:hover, .carousel a:hover, .lien-rapide a:hover
+{
+    color: tomato;
+}
+
+.list-inline-item a, .breadcrumb a, .lien-rapide a
+{
+    color: white;
+    text-decoration: none;
+}
+
+.mission
+{
+  display: flex;
+  justify-content:center;
+}
+
+.copyright
+{
+    background-color:white;
+}
+
+.list-group-item a
+{
+    text-decoration: none;
+    color:black;
+}
+
+.list-group-item a:hover, label
+{
+    color:white;
+}
+
+.list-group-item:hover
+{
+    background-color:lightseagreen;
+}
+
+.image-home .btn
+{
+    background-color:lightsalmon;
+}
+
+.image-evenement .btn
+{
+    background-color:lightseagreen;
+}
+
+.image-formulaire .btn
+{
+    background-color:rebeccapurple;
+}
+
+.btn:hover
+{
+    background-color:lightblue;
+}

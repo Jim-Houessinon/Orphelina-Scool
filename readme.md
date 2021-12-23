@@ -16,3 +16,4 @@ Etape :
 12. Ajout affiche evenement + blocs de textes.
 13. Ajout Article: cartes - Calendrier des évènements.
 14. Ajout Article: cartes - Nos actions.
+15. Ajout page formulaire + logo, header, nav, footer.

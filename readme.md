@@ -6,3 +6,4 @@ Etape :
 2. Ajout image background + Logo.
 3. Ajout Header: navbar + breadcrumb
 4. Ajout Définition Orphelina Scool.
+5. Ajout d'un carousel.

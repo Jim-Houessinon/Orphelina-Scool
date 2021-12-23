@@ -8,3 +8,5 @@ Etape :
 4. Ajout Définition Orphelina Scool.
 5. Ajout d'un carousel.
 6. Ajout Section: 3 blocs de textes + 3 images effet parallax.
+7. Article: ajout des cartes - Les bénévoles racontent leur mission humanitaire.
+8. Article: ajout des cartes - Point actu.

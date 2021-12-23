@@ -17,3 +17,4 @@ Etape :
 13. Ajout Article: cartes - Calendrier des évènements.
 14. Ajout Article: cartes - Nos actions.
 15. Ajout page formulaire + logo, header, nav, footer.
+16. Ajout Form: contenu du formulaire.

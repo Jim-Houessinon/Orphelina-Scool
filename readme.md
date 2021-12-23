@@ -18,3 +18,4 @@ Etape :
 14. Ajout Article: cartes - Nos actions.
 15. Ajout page formulaire + logo, header, nav, footer.
 16. Ajout Form: contenu du formulaire.
+16. Ajout du fichié style.css.

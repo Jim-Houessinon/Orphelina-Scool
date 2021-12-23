@@ -12,3 +12,4 @@ Etape :
 8. Article: ajout des cartes - Point actu.
 9. Footer: Ajout des différents liens - réseaux sociaux - newsletter - liens rapides
 10. Ajout de la page évènement + récupération : logo, header, footer
+11. Ajout Nav: Menu.
